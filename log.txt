@@ -287,3 +287,75 @@ On 07/18/2019
 
 Result: 34
 At Nordfjordeid (sogn Og Fjordane), Norway
+
+Command: movie-this up
+
+
+Command: movie-this up
+
+
+Command: movie-this up
+
+
+Up
+
+=================================================
+Rotten Tomatoes: 98%
+Available languages: English
+IMDB Rating: 8.3
+Year Released: 2009
+
+Plot: Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.
+
+=================================================
+
+Produced in: USA
+Actors: Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson
+No input detected, defaulting search to "Willie Wonka"
+
+Command: movie-this
+
+No input detected, defaulting search to "Willie Wonka"
+
+Command: movie-this
+
+
+Command: movie-this willie wonka
+
+
+Command: movie-this the dark knight
+
+
+The Dark Knight
+
+=================================================
+IMDB Rating: 9.0
+Rotten Tomatoes: 94%
+Available languages: English, Mandarin
+
+Plot: When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+Produced in: USA, UK
+Actors: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
+Year Released: 2008
+
+=================================================
+
+No input detected, defaulting search to "The Dark Knight"
+
+Command: movie-this
+
+
+The Dark Knight
+
+=================================================
+IMDB Rating: 9.0
+Rotten Tomatoes: 94%
+
+Plot: When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+Available languages: English, Mandarin
+Actors: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
+
+=================================================
+
+Year Released: 2008
+Produced in: USA, UK

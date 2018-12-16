@@ -366,11 +366,11 @@ function movie(input) {
 
     if (input === '') {
 
-        input = 'Willie+Wonka';
+        input = 'The Dark Knight';
 
-        log("No input detected, defaulting search to \"Willie Wonka\"")
+        log("No input detected, defaulting search to \"The Dark Knight\"")
 
-        console.log("No input detected, defaulting search to \"Willie Wonka\"".green)
+        console.log("No input detected, defaulting search to \"The Dark Knight\"".green)
 
     }
 
