@@ -1,0 +1,289 @@
+
+Command: movie-this up
+
+
+Command: spotify-this-song ABC
+
+There are 3 results based on your search on 'ABC'
+
+======================================================================
+
+Artist: The Jackson 5
+
+Sorry! No preview URL is available
+======================================================================
+
+
+Song Name: ABC
+Artist: The Jackson 5
+
+Sorry! No preview URL is available
+
+Album Name: ABC
+
+
+Album Name: Anthology: Jackson 5
+
+======================================================================
+
+
+Song Name: ABC Song
+Artist: The Rubber Ducky Band
+
+Preview URL: https://p.scdn.co/mp3-preview/a4075e265e246391b12238cbaa3026469c366907?cid=bad29cfb80c7447887634b6edba20a40
+
+
+Song Name: ABC
+
+Album Name: Sleepy Time
+
+======================================================================
+
+
+Command: spotify-this-song otherside
+
+There are 3 results based on your search on 'otherside'
+
+======================================================================
+
+
+Sorry! No preview URL is available
+Artist: Post Malone
+
+Song Name: Otherside
+======================================================================
+
+
+Preview URL: https://p.scdn.co/mp3-preview/3dfe48540e8c8b3a4b3434837952a3aa5b9291e9?cid=bad29cfb80c7447887634b6edba20a40
+
+Artist: Red Hot Chili Peppers
+
+Album Name: beerbongs & bentleys
+
+======================================================================
+
+
+Song Name: Otherside
+
+Album Name: Californication (Deluxe Version)
+
+
+Song Name: OtherSide
+Artist: Icy Narco
+
+Sorry! No preview URL is available
+======================================================================
+
+
+Album Name: OtherSide
+
+
+Command: concert-this Weezer
+
+34 Results were found
+
+
+=================================================
+Weezer is performing at iHeartRadio ALTer Ego 2019
+On 01/19/2019
+
+Result: 1
+At Los Angeles, CA
+=================================================
+Weezer is performing at KFC Yum! Center
+On 03/08/2019
+
+At Louisville, KY
+=================================================
+Result: 3
+Weezer is performing at Colonial Life Arena
+At Columbia, SC
+Result: 2
+On 03/10/2019
+
+=================================================
+Weezer is performing at Madison Square Garden
+On 03/12/2019
+
+Result: 4
+At New York, NY
+=================================================
+At Montréal, Canada
+Weezer is performing at Bell Centre
+Result: 5
+On 03/13/2019
+
+=================================================
+Result: 6
+At Albany, NY
+Weezer is performing at Times Union Center
+Weezer is performing at Foxwoods Resort Casino - Grand Theater
+Result: 7
+=================================================
+At Mashantucket, CT
+On 03/16/2019
+
+=================================================
+Result: 8
+At Baltimore, MD
+Weezer is performing at Royal Farms Arena
+On 03/14/2019
+
+Result: 9
+On 03/17/2019
+
+Weezer is performing at Schottenstein Center
+On 03/19/2019
+
+=================================================
+Weezer is performing at Van Andel Arena
+At Columbus, OH
+=================================================
+On 03/20/2019
+
+At Grand Rapids, MI
+Result: 11
+=================================================
+At Memphis, TN
+Result: 10
+Result: 12
+On 03/22/2019
+
+Weezer is performing at FedEx Forum
+At St. Louis, MO
+Weezer is performing at Enterprise Center
+Result: 13
+=================================================
+At Kansas City, MO
+=================================================
+Weezer is performing at Sprint Center
+On 03/24/2019
+
+=================================================
+Result: 14
+At Tulsa, OK
+Weezer is performing at BOK Center
+Result: 15
+On 03/26/2019
+
+Weezer is performing at Wells Fargo Arena
+=================================================
+On 03/28/2019
+
+On 03/27/2019
+
+At Des Moines, IA
+Weezer is performing at Xcel Energy Center
+=================================================
+At St Paul, MN
+On 03/30/2019
+
+Result: 16
+Weezer is performing at Alliant Energy Center - Veterans Memorial Coliseum
+Result: 17
+=================================================
+Result: 18
+=================================================
+On 03/31/2019
+
+Weezer is performing at Ford Idaho Center Arena
+At Nampa, ID
+On 04/05/2019
+
+At Madison, WI
+=================================================
+Weezer is performing at Moda Center
+On 04/06/2019
+
+Result: 19
+At Portland, OR
+Weezer is performing at Rogers Arena 
+Result: 20
+=================================================
+Result: 21
+On 04/07/2019
+
+At Vancouver, Canada
+=================================================
+At Sacramento, CA
+Weezer is performing at Golden 1 Center
+Result: 22
+On 04/09/2019
+
+=================================================
+On 04/10/2019
+
+Weezer is performing at Oracle Arena
+=================================================
+At Las Vegas, NV
+At Oakland, CA
+Weezer is performing at Mandalay Bay Events Center
+Result: 24
+=================================================
+Weezer is performing at Rock Werchter 2019
+At Werchter, Belgium
+On 04/12/2019
+
+Result: 25
+On 06/28/2019
+
+=================================================
+Result: 23
+On 06/29/2019
+
+Weezer is performing at O2 Academy Brixton
+=================================================
+On 07/02/2019
+
+At London, United Kingdom
+Weezer is performing at Stadtpark
+Result: 27
+At Hamburg, Germany
+=================================================
+Weezer is performing at Tivoli Vredenburg
+Result: 26
+On 07/04/2019
+
+At Utrecht, Netherlands
+Weezer is performing at Eurockéennes
+=================================================
+At Belfort, France
+On 07/06/2019
+
+Result: 28
+Result: 29
+=================================================
+On 07/07/2019
+
+Weezer is performing at Sonic Park 
+Weezer is performing at Xtra
+At Zurich, Switzerland
+=================================================
+At Bologna, Italy
+Result: 30
+On 07/08/2019
+
+Weezer is performing at Bilbao BBK (July 11th-13th, Single Day TBA)
+=================================================
+At Bilbao, Spain
+On 07/11/2019
+
+=================================================
+Result: 32
+At Stockholm, Sweden
+Weezer is performing at Grönan Live
+Result: 31
+On 07/16/2019
+
+=================================================
+Result: 33
+Weezer is performing at Bukta Open Air Festival (Single Day TBA)
+On 07/18/2019
+
+At Tromsø, Norway
+=================================================
+Weezer is performing at Malakoff Festival (Single Day TBA)
+On 07/18/2019
+
+Result: 34
+At Nordfjordeid (sogn Og Fjordane), Norway
