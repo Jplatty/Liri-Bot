@@ -51,6 +51,7 @@ example: node liri.js movie-this The Avengers
 
     * something special happens if you come across a movie that was produced in a certain country....
 
+![spotify-this-song command](https://user-images.githubusercontent.com/41643506/50050592-3f2d4700-00c5-11e9-8d3b-bb74c4f5392f.png)
 <br>
 ```
 example: node liri.js do-what-it-says
