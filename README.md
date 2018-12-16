@@ -24,7 +24,7 @@ example: node liri.js concert-this <band or artist name>
 1. 'node liri.js concert-this \<band or artist name\>'
     * Displays a list of results of where the band or artist is performing  
 
-![do-what-it-says command](https://user-images.githubusercontent.com/41643506/50050589-3a689300-00c5-11e9-848e-5ea1cb594557.png)<br>
+<br>
 ```
 example: node liri.js spotify-this-song Mr Brightside
 ```
@@ -51,7 +51,7 @@ example: node liri.js movie-this The Avengers
 
     * something special happens if you come across a movie that was produced in a certain country....
 
-![spotify-this-song command](https://user-images.githubusercontent.com/41643506/50050592-3f2d4700-00c5-11e9-8d3b-bb74c4f5392f.png)
+![do-what-it-says command](https://user-images.githubusercontent.com/41643506/50050589-3a689300-00c5-11e9-848e-5ea1cb594557.png)
 <br>
 ```
 example: node liri.js do-what-it-says
