@@ -9,22 +9,30 @@ A language Interpretation and Recognition Interface that uses command line in no
     * movie-this
     * do-what-it-says
 
+## How to use LIRI
+* LIRI is able to take in 4 commands utilizing node.js
+    * concert-this
+w    * spotify-this-song
+    * movie-this
+    * do-what-it-says
+
 ## What each command does
+  <br>
+  ```
 example: node liri.js concert-this <band or artist name>
 ```
 1. 'node liri.js concert-this \<band or artist name\>'
     * Displays a list of results of where the band or artist is performing  
-    
- ![concert-this command](https://user-images.githubusercontent.com/41643506/50050526-6be05f00-00c3-11e9-934f-297eba139d12.png)
+
+<br>
 ```
 example: node liri.js spotify-this-song Mr Brightside
 ```
 
 2. 'node liri.js spotify-this-song \<song name\>'
     * Displays the top 3 results of the song name
-    
-    
 
+<br>
 ```
 example: node liri.js movie-this The Avengers
 ```
@@ -42,8 +50,8 @@ example: node liri.js movie-this The Avengers
     * If there is no movie title inserted, the search will default to Mr. Nobody
 
     * something special happens if you come across a movie that was produced in a certain country....
-    
-![do-what-it-says command](https://user-images.githubusercontent.com/41643506/50050535-9a5e3a00-00c3-11e9-8095-8337103fa33d.png)
+
+<br>
 ```
 example: node liri.js do-what-it-says
 ```
@@ -64,4 +72,5 @@ example: node liri.js do-what-it-says
 
 ## Author
 
-* **John Plattenburg Jr.**  
+* **John Plattenburg Jr.** 
+
