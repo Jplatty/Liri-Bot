@@ -24,7 +24,7 @@ example: node liri.js concert-this <band or artist name>
 1. 'node liri.js concert-this \<band or artist name\>'
     * Displays a list of results of where the band or artist is performing  
 
-<br>
+![do-what-it-says command](https://user-images.githubusercontent.com/41643506/50050589-3a689300-00c5-11e9-848e-5ea1cb594557.png)<br>
 ```
 example: node liri.js spotify-this-song Mr Brightside
 ```
