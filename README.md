@@ -17,7 +17,7 @@ w    * spotify-this-song
     * do-what-it-says
 
 ## What each command does
-  <br>
+  ![concert-this command](https://user-images.githubusercontent.com/41643506/50050588-36d50c00-00c5-11e9-9941-75851fc9ef32.png)<br>
   ```
 example: node liri.js concert-this <band or artist name>
 ```
