@@ -32,7 +32,7 @@ example: node liri.js spotify-this-song Mr Brightside
 2. 'node liri.js spotify-this-song \<song name\>'
     * Displays the top 3 results of the song name
 
-<br>
+![movie-this command](https://user-images.githubusercontent.com/41643506/50050591-3ccaed00-00c5-11e9-9073-73d39ac8abf4.png)<br>
 ```
 example: node liri.js movie-this The Avengers
 ```
