@@ -12,7 +12,7 @@ A language Interpretation and Recognition Interface that uses command line in no
 ## How to use LIRI
 * LIRI is able to take in 4 commands utilizing node.js
     * concert-this
-w    * spotify-this-song
+    * spotify-this-song
     * movie-this
     * do-what-it-says
 
@@ -24,6 +24,7 @@ example: node liri.js concert-this <band or artist name>
 1. 'node liri.js concert-this \<band or artist name\>'
     * Displays a list of results of where the band or artist is performing  
 
+![spotify-this-song command](https://user-images.githubusercontent.com/41643506/50050592-3f2d4700-00c5-11e9-8d3b-bb74c4f5392f.png)
 <br>
 ```
 example: node liri.js spotify-this-song Mr Brightside
