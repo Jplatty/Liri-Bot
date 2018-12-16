@@ -359,3 +359,144 @@ Actors: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
 
 Year Released: 2008
 Produced in: USA, UK
+
+Command: do-what-it-says
+
+* spotify-this-song,"I Want it That Way"
+
+
+concert-this
+spotify-this-song
+movie-this
+do-what-it-says
+
+I could not recognize that command, please state one of these commands: 
+
+Command: do-what-it-says
+
+spotify-this-song I Want it That Way
+
+
+concert-this
+spotify-this-song
+movie-this
+do-what-it-says
+
+I could not recognize that command, please state one of these commands: 
+
+Command: do-what-it-says
+
+node spotify-this-song I Want it That Way
+
+I could not recognize that command, please state one of these commands: 
+
+concert-this
+spotify-this-song
+movie-this
+do-what-it-says
+
+
+Command: do-what-it-says
+
+node liri.js spotify-this-song I Want it That Way
+
+I could not recognize that command, please state one of these commands: 
+
+concert-this
+spotify-this-song
+movie-this
+do-what-it-says
+
+
+Command: do-what-it-says
+
+I could not recognize that command, please state one of these commands: 
+
+concert-this
+spotify-this-song
+movie-this
+do-what-it-says
+
+spotify-this-song ABC
+
+
+Command: do-what-it-says
+
+spotify-this-song,"I Want it That Way"
+
+There are 3 results based on your search on '"I Want it That Way"'
+
+======================================================================
+
+
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bad29cfb80c7447887634b6edba20a40
+
+
+Song Name: I Want It That Way
+
+Album Name: The Hits--Chapter One
+
+======================================================================
+
+Artist: Backstreet Boys
+Artist: Backstreet Boys
+
+Song Name: I Want It That Way
+
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=bad29cfb80c7447887634b6edba20a40
+
+
+Album Name: Millennium
+
+======================================================================
+
+Artist: Anthem Lights
+
+Song Name: I Want It That Way
+
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=bad29cfb80c7447887634b6edba20a40
+
+
+Album Name: Covers Part IV
+
+======================================================================
+
+
+Command: do-what-it-says
+
+spotify-this-song,"Ice Tray"
+
+There are 3 results based on your search on '"Ice Tray"'
+
+======================================================================
+
+
+Song Name: Ice Tray
+
+Sorry! No preview URL is available
+
+Album Name: Quality Control: Control The Streets Volume 1
+
+======================================================================
+
+Artists: Quality Control & Quavo & Lil Yachty
+Artists: Quality Control & Quavo & Lil Yachty
+
+Song Name: Ice Tray
+
+Sorry! No preview URL is available
+======================================================================
+
+
+Song Name: Ice Tray
+
+Album Name: Ice Tray
+
+
+Sorry! No preview URL is available
+
+Album Name: Hip Hop Hit List (Vol. IV)
+
+======================================================================
+
+Artists: Quality Control & Quavo & Lil Yachty
