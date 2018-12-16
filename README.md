@@ -10,6 +10,7 @@ A language Interpretation and Recognition Interface that uses command line in no
     * do-what-it-says
 
 ## What each command does
+![concert-this command](https://user-images.githubusercontent.com/41643506/50050526-6be05f00-00c3-11e9-934f-297eba139d12.png)
 
 ```
 example: node liri.js concert-this <band or artist name>
