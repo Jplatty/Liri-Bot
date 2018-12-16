@@ -10,21 +10,20 @@ A language Interpretation and Recognition Interface that uses command line in no
     * do-what-it-says
 
 ## What each command does
-![concert-this command](https://user-images.githubusercontent.com/41643506/50050526-6be05f00-00c3-11e9-934f-297eba139d12.png)
-
-```
 example: node liri.js concert-this <band or artist name>
 ```
 1. 'node liri.js concert-this \<band or artist name\>'
     * Displays a list of results of where the band or artist is performing  
-
-![do-what-it-says command](https://user-images.githubusercontent.com/41643506/50050535-9a5e3a00-00c3-11e9-8095-8337103fa33d.png)
+    
+    ![concert-this command](https://user-images.githubusercontent.com/41643506/50050526-6be05f00-00c3-11e9-934f-297eba139d12.png)
 ```
 example: node liri.js spotify-this-song Mr Brightside
 ```
 
 2. 'node liri.js spotify-this-song \<song name\>'
     * Displays the top 3 results of the song name
+    
+    
 
 ```
 example: node liri.js movie-this The Avengers
@@ -51,6 +50,7 @@ example: node liri.js do-what-it-says
 4. 'node liri.js do-what-it-says'
     * Takes the text from random.txt and runs the song through the spotify-this-song command
 
+   ![do-what-it-says command](https://user-images.githubusercontent.com/41643506/50050535-9a5e3a00-00c3-11e9-8095-8337103fa33d.png)
 
 * In addition to logging out your results to the terminal, it will log out your inputs and results in a log.txt file!
 
